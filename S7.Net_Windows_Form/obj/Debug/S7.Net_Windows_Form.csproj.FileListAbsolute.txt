@@ -1,0 +1,13 @@
+D:\VS_Projelerim\S7.Net_Windows_Form\S7.Net_Windows_Form\bin\Debug\S7.Net_Windows_Form.exe.config
+D:\VS_Projelerim\S7.Net_Windows_Form\S7.Net_Windows_Form\bin\Debug\S7.Net_Windows_Form.exe
+D:\VS_Projelerim\S7.Net_Windows_Form\S7.Net_Windows_Form\bin\Debug\S7.Net_Windows_Form.pdb
+D:\VS_Projelerim\S7.Net_Windows_Form\S7.Net_Windows_Form\bin\Debug\S7.Net.dll
+D:\VS_Projelerim\S7.Net_Windows_Form\S7.Net_Windows_Form\bin\Debug\S7.Net.xml
+D:\VS_Projelerim\S7.Net_Windows_Form\S7.Net_Windows_Form\obj\Debug\S7.Net_Windows_Form.csprojAssemblyReference.cache
+D:\VS_Projelerim\S7.Net_Windows_Form\S7.Net_Windows_Form\obj\Debug\S7.Net_Windows_Form.Form1.resources
+D:\VS_Projelerim\S7.Net_Windows_Form\S7.Net_Windows_Form\obj\Debug\S7.Net_Windows_Form.Properties.Resources.resources
+D:\VS_Projelerim\S7.Net_Windows_Form\S7.Net_Windows_Form\obj\Debug\S7.Net_Windows_Form.csproj.GenerateResource.cache
+D:\VS_Projelerim\S7.Net_Windows_Form\S7.Net_Windows_Form\obj\Debug\S7.Net_Windows_Form.csproj.CoreCompileInputs.cache
+D:\VS_Projelerim\S7.Net_Windows_Form\S7.Net_Windows_Form\obj\Debug\S7.Net_Windows_Form.csproj.CopyComplete
+D:\VS_Projelerim\S7.Net_Windows_Form\S7.Net_Windows_Form\obj\Debug\S7.Net_Windows_Form.exe
+D:\VS_Projelerim\S7.Net_Windows_Form\S7.Net_Windows_Form\obj\Debug\S7.Net_Windows_Form.pdb
